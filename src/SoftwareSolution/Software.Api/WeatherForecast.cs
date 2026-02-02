@@ -1,4 +1,4 @@
-namespace SoftwareApi
+namespace Software.Api
 {
     public class WeatherForecast
     {
