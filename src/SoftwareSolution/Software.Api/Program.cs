@@ -1,7 +1,6 @@
 var builder = WebApplication.CreateBuilder(args); // Hey Microsoft, give me the stuff you think I'll need.
 
 
-
 // Add services to the container.
 
 builder.Services.AddControllers();

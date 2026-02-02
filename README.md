@@ -16,3 +16,4 @@ Click the "Diff Folders" extension icon on the left.
 
 Open the favorite.
 
+Changed
