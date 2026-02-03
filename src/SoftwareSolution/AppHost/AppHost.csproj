@@ -5,11 +5,14 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <UserSecretsId>fa30722a-b6b9-446a-adc4-a3662961c353</UserSecretsId>
+    <UserSecretsId>da7197a5-2ba3-457c-bced-0e6a6e9a627b</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ServiceDefaults\ServiceDefaults.csproj" />
+    <PackageReference Include="Aspire.Hosting.PostgreSQL" Version="13.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Software.Api\Software.Api.csproj" />
   </ItemGroup>
 

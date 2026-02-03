@@ -8,7 +8,9 @@ This is (or will be) your repository for the course.
 
 In Visual Studio Code in this Folder, open a terminal (Ctrl+backtick).
 
-Type `./pull-instructor-code`
+# Changed This.
+
+Type `./pull-instructor-code.sh`
 
 If it asks you for any confirmation, confirm.
 
@@ -16,4 +18,3 @@ Click the "Diff Folders" extension icon on the left.
 
 Open the favorite.
 
-Changed
